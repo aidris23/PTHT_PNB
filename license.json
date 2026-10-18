@@ -1,9 +1,9 @@
 {
-  "status": "ACTIVE",
-  "maintenance_message": "PIERS BOT sedang dalam masa perbaikan (maintenance). Hubungi admin Piers Store.",
+  "status": "OFF",
+  "maintenance_message": "PIERS BOT sedang dalam masa maintenance. Hubungi admin Piers Store.",
   "whitelist": [
-    "Piers",
-    "aidris23",
-    "410783"
+    "410783",
+    "827738",
+    "918234"
   ]
 }
