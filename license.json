@@ -1,8 +1,7 @@
 {
   "status": "OFF",
   "maintenance_message": "PIERS BOT sedang dalam masa maintenance. Hubungi admin Piers Store.",
-  "whitelist": [
-    "410783",
+  "whitelist": [ 
     "827738",
     "918234"
   ]
