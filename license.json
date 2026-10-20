@@ -1,13 +1,8 @@
 {
   "status": "ACTIVE",
   "maintenance_message": "PIERS BOT sedang dalam masa maintenance. Hubungi admin.",
-  "whitelist": [ 
-    "*"
-  ],
-  "whitelist_ptht": [
-    "*"
-  ],
-  "whitelist_pnb": [
-    "*"
-  ]
+  "whitelist": ["*"],
+  "whitelist_ptht": ["*"],
+  "whitelist_pnb": ["*"],
+  "whitelist_premium": ["*"]
 }
